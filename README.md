@@ -18,8 +18,11 @@ These questions are:
        5. Do houses located near the mainroad sell at a higher price than the rest?	
 ## Data Transformation
 The data cleaning was done by use of the Microsoft Excel Power Query.
+![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/d33faed2-c86c-470f-9955-465537cea40f)
+
 ## Visualization
-![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/a1ad7915-6da4-4ada-8425-9f915644f23d)
+![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/9c39f9d6-9a66-48d7-8abb-cbe734b81200)
+
 ## Findinds (Answers to the Questions)
 	 						
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/8e961a6a-1915-4809-8fd7-76d5824102a6)
