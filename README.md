@@ -21,7 +21,7 @@ These questions are:
 The data cleaning was done by use of the Microsoft Excel Power Query.
 # Visualization
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/a1ad7915-6da4-4ada-8425-9f915644f23d)
-## Findinds
+## Findinds (Answers to the Questions)
 	 						
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/8e961a6a-1915-4809-8fd7-76d5824102a6)
 
