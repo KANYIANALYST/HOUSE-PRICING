@@ -22,10 +22,9 @@ The data cleaning was done by use of the Microsoft Excel Power Query.
 
 ## Visualization
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/9c39f9d6-9a66-48d7-8abb-cbe734b81200)
-
 ## Findinds (Answers to the Questions)
-	 						
-![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/8e961a6a-1915-4809-8fd7-76d5824102a6)
+![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/53b481f2-daa4-492f-8721-ab8ca705539a)
+
 
 ## Recommedation
 It’s easier to avoid common home-selling mistakes when you’re aware of the factors that influence your home value. Consider these factors in mind when pricing your home to help attract serious buyers and to prevent long days on market, which ultimately, come at a cost.
