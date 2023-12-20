@@ -1,4 +1,6 @@
 # HOUSE-PRICING
+![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/9c39f9d6-9a66-48d7-8abb-cbe734b81200)
+
 ## OUTLINE
 1. Introduction
 2. Problem Statement
