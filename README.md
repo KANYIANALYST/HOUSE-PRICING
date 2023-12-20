@@ -22,6 +22,7 @@ The data cleaning was done by use of the Microsoft Excel Power Query.
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/d33faed2-c86c-470f-9955-465537cea40f)
 
 ## Visualization
+The dashboard was created using pivot tables, which are a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/9c39f9d6-9a66-48d7-8abb-cbe734b81200)
 ## Findinds (Answers to the Questions)
 ![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/53b481f2-daa4-492f-8721-ab8ca705539a)
