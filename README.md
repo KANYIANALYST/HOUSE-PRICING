@@ -20,8 +20,11 @@ These questions are:
 4. Does basement in a house affects the price of the house?								
 5. Do houses located near the mainroad sell at a higher price than the rest?	
 ## Data Transformation
-The data cleaning was done by use of the Microsoft Excel Power Query.
-![image](https://github.com/KANYIANALYST/HOUSE-PRICING/assets/130997793/d33faed2-c86c-470f-9955-465537cea40f)
+Data transformation is the process of converting, cleansing, and structuring data into a usable format that can be analyzed to support decision making processes, and to propel the growth of an organization.
+In this project data transformation was achieved through the use of Microsoft Excel Power Query which included:
+*	Setting the fields in the correct format.
+*	Removing invalid columns.
+* Renaming of some column headers.
 
 ## Visualization
 The dashboard was created using pivot tables, which are a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
